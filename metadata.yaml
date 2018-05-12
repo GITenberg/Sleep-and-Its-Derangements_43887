@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31448
     wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Hammond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43887#Sleep-and-Its-Derangements
 gutenberg_issued: '2013-10-05'
 gutenberg_type: Text
 identifiers:
