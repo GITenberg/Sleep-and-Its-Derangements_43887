@@ -1,0 +1,31 @@
+_repo: Sleep-and-Its-Derangements_43887
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43887-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hammond, William A. (William Alexander)
+    aliases:
+    - Hammond, W. A. (William Alexander)
+    - Hammond, William Alexander
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '31448'
+    url: http://www.gutenberg.org/2009/agents/31448
+    wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Hammond
+description: ''
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcsh 'Sleep -- Physiological aspects'
+- !lcsh 'Sleep disorders'
+title: Sleep and Its Derangements
+url: http://www.gutenberg.org/ebooks/43887
